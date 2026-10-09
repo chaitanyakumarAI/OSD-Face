@@ -1,0 +1,8 @@
+OSDFace Precision Benchmark (FP32 vs FP16)
+==================================================
+Metric                    | FP32       | FP16      
+--------------------------------------------------
+Avg Inference Time        | 580.46 ms  | 493.41 ms
+Peak VRAM (Inference)     | 3951.97 MB  | 2157.63 MB
+Peak VRAM (Model Load)    | 3756.10 MB  | 2070.76 MB
+==================================================
